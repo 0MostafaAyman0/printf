@@ -1,4 +1,4 @@
-k#include "main.h"
+#include "main.h"
 
 /****************** PRINT POINTER ******************/
 /**
